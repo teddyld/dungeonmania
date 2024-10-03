@@ -1,0 +1,60 @@
+{
+    "entities": [
+      {
+        "x": 2,
+        "y": 1,
+        "type": "exit"
+      },
+      {
+        "x": 10,
+        "y": 1,
+        "type": "wall"
+      },
+      {
+        "x": 12,
+        "y": 1,
+        "type": "wall"
+      },
+      {
+        "x": 9,
+        "y": 2,
+        "type": "player"
+      },
+      {
+        "x": 10,
+        "y": 2,
+        "type": "swamp_tile"
+      },
+      {
+        "x": 11,
+        "y": 2,
+        "type": "mercenary"
+      },
+      {
+        "x": 12,
+        "y": 2,
+        "type": "wall"
+      },
+      {
+        "x": 9,
+        "y": 3,
+        "type": "wall"
+      },
+      {
+        "x": 10,
+        "y": 3,
+        "type": "wall"
+      },
+      {
+        "x": 11,
+        "y": 3,
+        "type": "wall"
+      },
+      {
+        "x": 12,
+        "y": 3,
+        "type": "wall"
+      }
+    ],
+    "goal-condition": {"goal":"exit"}
+}

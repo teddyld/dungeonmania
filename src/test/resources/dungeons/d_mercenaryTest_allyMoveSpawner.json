@@ -1,0 +1,35 @@
+{
+  "entities": [
+    {
+      "x": 2,
+      "y": 1,
+      "type": "player"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "type": "exit"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "type": "treasure"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "type": "sword"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "type": "mercenary"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "type": "zombie_toast_spawner"
+    }
+  ],
+  "goal-condition": {"goal":"exit"}
+}

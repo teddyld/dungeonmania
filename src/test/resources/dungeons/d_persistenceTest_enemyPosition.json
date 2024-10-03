@@ -1,0 +1,25 @@
+{
+  "entities": [
+    {
+      "x": 1,
+      "y": 1,
+      "type": "player"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "type": "spider"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "type": "zombie_toast"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "type": "mercenary"
+    }
+  ],
+  "goal-condition": {"goal":"exit"}
+}
