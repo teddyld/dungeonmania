@@ -8,6 +8,4 @@ A 2D rougelike dungeon game developed to in the COMP2511 course at UNSW (Object-
     <img src="./dungeon.png">
 </div>
 
-## Design Document
-
-<iframe width="100%" height="800" src="./design.pdf">
+## [Dungeonmania Design](./design.pdf)
